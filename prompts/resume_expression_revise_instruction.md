@@ -43,6 +43,8 @@ Both resumes contain these sections: `summary`, `skills`, `work_experience`
 - Length: 12-20 words per bullet point
 - Quantification: Include metrics wherever possible (percentages, dollar amounts, user counts, time savings)
 - Clarity: Ensure non-specialists can understand the business value
+- No fancy words or exaggerations, use simple language. 
+- No blobs of information, instead well formatted/legible description.
 
 ## Task Instructions
 
